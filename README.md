@@ -10,7 +10,7 @@
 **BEFORE ACCESSING THIS WEBSITE MAKE SURE YOU ARE NOT AROUND ANY TEACHERS, AND THERE ARE NO *ACTIVE* GOGUARDIAN SESSIONS**
 
 # LINKS
-   Website Link: storied-kulfi.netlify.app
+   Website Link: [storied-kulfi.netlify.app](url)
 
 # WARNING
 
